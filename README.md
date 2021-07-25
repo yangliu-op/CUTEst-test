@@ -2,7 +2,7 @@
 A framework of testing algorithms with CUTEst test problems.
 
 ## CUTEst:
-In short, The Constrained and Unconstrained Environment, safe threads, (CUTEst) is a set of test problems for linear and nonlinear optimization. For detailes, see\\
+In short, The Constrained and Unconstrained Environment, safe threads, (CUTEst) is a set of test problems for linear and nonlinear optimization. For detailes, see, 
 https://www.cuter.rl.ac.uk/Problems/mastsif.shtml
 
 Reference: 
@@ -12,8 +12,8 @@ Authurs: Gould, Nicholas IM and Orban, Dominique and Toint, Philippe L
 ## Pre-installation: 
 Pytorch, Linux systems (pycutest only supports Mac and Linux), CUTEst test problems, pycutest.
 
-To successfully install CUTEst test problems/pycutest interface, one can use the guide below.\\
-https://github.com/jfowkes/pycutest\\
+To successfully install CUTEst test problems/pycutest interface, one can use the guide following, 
+https://github.com/jfowkes/pycutest, 
 https://jfowkes.github.io/pycutest/_build/html/index.html
 
 ## Execution:
