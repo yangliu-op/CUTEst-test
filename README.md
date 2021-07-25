@@ -18,7 +18,7 @@ https://jfowkes.github.io/pycutest/_build/html/index.html
 
 ## Execution:
 One can execute the framework with main.py. In particular, the codes can be executed in 2 ways:
-### input as a single problem
+### Input as a single problem
 E.g., prob == ['PALMER7C'], then the codes will generate the comparison between solvers for a single CUTEst problem. The corresponding example plots can be found in general_plot_example folder.
-### input as a problem-set
+### Input as a problem-set
 E.g., prob == ['Unconstrained'], then this codes will generate the performance profile plots, which is the CDF of the performance, over the problem-set, of every algorithms. The problem-set can be manually changed/set at Line 130, initialize.py. Currently, as you can see in initialize.py, this set only selected 7 CUTEst problems for playing around. The corresponding example plots can be found in pProfile folder.
