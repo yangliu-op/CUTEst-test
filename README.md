@@ -10,7 +10,7 @@ Reference:
 Authurs: Gould, Nicholas IM and Orban, Dominique and Toint, Philippe L
 
 ## Pre-installation: 
-Pytorch, Linux systems, CUTEst test problems, pycutest.
+Pytorch, Linux systems(pycutest only supports Mac and Linux), CUTEst test problems, pycutest.
 
 To successfully install CUTEst test problems/pycutest interface, one can use the guide below.
 https://github.com/jfowkes/pycutest
