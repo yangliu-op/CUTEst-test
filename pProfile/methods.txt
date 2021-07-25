@@ -1,0 +1,5 @@
+L_BFGS
+Newton_CR
+Newton_CG_Pert
+Newton_CG_TR
+Newton_CG_TR_Pert
