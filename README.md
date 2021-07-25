@@ -16,7 +16,7 @@ To successfully install CUTEst test problems/pycutest interface, one can use the
 https://github.com/jfowkes/pycutest
 https://jfowkes.github.io/pycutest/_build/html/index.html
 
-## Execute:
+## Execution:
 One can execute the framework with main.py. In particular, the codes can be executed in 2 ways:
 ### input as a single problem
 E.g., prob == ['PALMER7C'], then the codes will generate the comparison between solvers for a single CUTEst problem. The corresponding example plots can be found in general_plot_example folder.
